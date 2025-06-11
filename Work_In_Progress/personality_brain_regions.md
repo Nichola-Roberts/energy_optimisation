@@ -1,102 +1,64 @@
-Cognitive Functions to Brain Regions Mapping
-Core Framework
-DMN (Default Mode Network) - Introverted Functions
-Active during rest, internal focus, and self-referential processing. Anti-correlated with TPN.
-Function Mappings
-
-Ni → Precuneus
-
-Mental simulation, consciousness, future visualization
-Accuracy: 9/10
 
 
-Si → Parahippocampal Cortex
+### Core Discovery #1: The DMN/TPN Architecture
 
-Familiarity detection, context recognition
-Accuracy: 9/10
+**Default Mode Network (Introverted Functions):**
+- Ni → Precuneus (consciousness, pattern synthesis)
+- Si → Parahippocampal Cortex (experiential memory, context)
+- Ti → Angular Gyrus (logical frameworks) 
+- Fi → vmPFC (personal values, meaning)
 
+**Task-Positive Network (Extraverted Functions):**
+- Ne → Frontopolar Cortex (possibility exploration)
+- Se → Superior Parietal Lobule (sensorimotor integration)
+- Te → Lateral Prefrontal Cortex (executive planning)
+- Fe → Temporal-Parietal Junction (social cognition)
 
-Ti → Angular Gyrus
+**The Critical Anti-correlation:** DMN and TPN cannot be fully active simultaneously - they operate like a seesaw.
 
-Logical relationships, mathematical reasoning, abstract analysis
-Accuracy: 8/10
+### Core Discovery #2: Consciousness and the Two Selves
 
+**Consciousness likely resides in the DMN** - the "default" state when tasks are stripped away. This means:
+- Introverts live in consciousness and visit the external world
+- Extroverts live in the external world and visit consciousness
 
-Fi → vmPFC (Ventromedial Prefrontal Cortex)
+**Two Self-Systems:**
+- Internal Self (DMN): Ti and Fi - your logical framework AND values are both "you"
+- Relational Self (TPN): How you exist in relation to others
 
-Personal values, self-referential meaning
-Accuracy: 10/10
+Cultural bias toward Fi ("feelings = true self") has obscured that Ti (personal logic) is equally the internal self.
 
+### Core Discovery #4: The Neuroscience Bias
 
+**Modern neuroscience has accidentally been studying primarily xNTJ brains!**
 
-TPN (Task-Positive Network) - Extraverted Functions
-Active during external tasks and environmental engagement. Anti-correlated with DMN.
-Function Mappings
+Evidence:
+- Most clearly mapped regions are Te (lateral PFC), Fi (vmPFC), and Ni (precuneus)
+- The "volunteers for brain studies" personality type
+- Math/logic placed in Te regions (where xNTJs process it)
 
-Ne → Frontopolar Cortex (BA10)
+This creates two problems:
+1. **Sampling bias**: Studying one type and universalizing
+2. **Averaging catastrophe**: Mixing incompatible types creates noise, not signal
 
-Possibility exploration, "what if" processing
-Accuracy: 9/10
+### Core Discovery #5: Connection Patterns, Not Regions
 
+**Same function = same brain region for everyone**
+BUT
+**Different connection patterns create different experiences**
 
-Se → Superior Parietal Lobule (SPL)
+Example:
+- Angular Gyrus = Ti for everyone
+- INTP: Connects broadly for theoretical integration
+- INFJ: Connects to Fe/Ni regions for human understanding
+- The region is the same, the network is different
 
-Real-time sensorimotor integration, spatial awareness
-Accuracy: 8/10
+### Implications:
 
+1. **Personality types reveal brain function better than brain scans** - they show the subjective experience and purpose, not just activation
 
-Te → Lateral Prefrontal Cortex
+2. **There may be no "general human brain"** - only 16 different optimization patterns using the same hardware
 
-Executive planning, external organization
-Accuracy: 8/10
+3. **Neuroscience findings need reinterpretation** - they've been studying xNTJ connectivity and calling it human nature
 
-
-Fe → Temporal-Parietal Junction (TPJ)
-
-Social cognition, reading others' mental states
-Accuracy: 9/10
-
-
-
-Variable/Shared Regions
-Context-Dependent Assignment
-
-PCC (Posterior Cingulate Cortex) → Sense of self
-
-Links to Ti OR Fi depending on person
-Creates identity from introverted judging function
-
-
-Retrosplenial Cortex → Pattern recognition
-
-Links to Si OR Ni depending on usage
-Backward-looking (Si) vs forward-looking (Ni) patterns
-
-
-
-Universal Infrastructure
-
-Hippocampus → Episodic memory formation (all types use)
-ACC/Anterior Insula → Domain monitoring (2nd function)
-
-Monitors progress toward type's "life mission"
-Bridges DMN and TPN
-
-
-
-Unmapped Regions
-DMN Regions
-
-dmPFC (dorsomedial PFC) - social cognition
-Middle Temporal Gyrus - semantic concepts
-Temporal Poles - social/emotional concepts
-Inferior Parietal Lobule (parts) - integration
-
-TPN Regions
-
-dACC - conflict monitoring
-Anterior Insula - salience/switching (possibly linked to 2nd function)
-Supplementary Motor Area - movement planning
-Premotor Cortex - motor preparation
-Intraparietal Sulcus - attention/math (Ti placement controversial)
-Frontal Eye Fields - visual attention
+4. **Development is about rewiring connections** - not accessing new regions but creating new pathways
